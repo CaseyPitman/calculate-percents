@@ -1,0 +1,47 @@
+html{
+    background:lightblue;
+    font-family:monospace;
+    font-size:10px;
+}
+
+#content-wrapper{
+    text-align:center;
+    width:90%;
+    margin:100px auto;
+}
+
+h1{
+    font-size:3.5rem;
+    margin:30px auto 20px;
+}
+
+h2{
+    font-size:1.8rem;
+    margin:20px auto 0;
+}
+h3{
+    font-size:1.6rem;
+    margin:20px auto;
+}
+
+.number-field{
+    border:1px solid gray;
+    margin:20px 15px;
+    font-family:monospace;
+    font-size:20px;
+    padding:5px;
+    text-align:center;
+}
+
+.button{
+    border:1px solid gray;
+    background:rgba(128, 128, 128, 0.5);
+    margin:20px auto;
+    font-family:monospace;
+    font-size:20px;
+}
+
+#find-percent:hover, 
+#reset:hover {
+    transform:scale(1.2);
+}
