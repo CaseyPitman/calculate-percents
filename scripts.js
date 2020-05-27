@@ -1,5 +1,4 @@
-/*Takes two numbers - a whole and a part - and 
-  calculates percentage*/
+//Takes two numbers - a whole and a part - and calculates percentage
 
   //calculation function
   const calculatePercentage = function(part, whole){
